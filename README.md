@@ -63,7 +63,7 @@ It is recommended to create a virtual environment for the project to manage depe
 1. Clone the repository:
     ```bash
     git clone (https://github.com/gaurav-thorat/Resume_Screener.git)
-    cd Resume-Screening-Bot
+    cd Resume_Screener
     ```
 Once the virtual environment is activated, install the project dependencies using the `requirements.txt` file.
 
