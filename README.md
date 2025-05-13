@@ -79,20 +79,7 @@ Once the virtual environment is activated, install the project dependencies usin
       OPENAI_API_KEY=your_openai_api_key
       ```
 
-## 4. Run the Project
-With all dependencies installed, you can now run the project.
-```sh
-cd demo
-streamlit run interface.py
-```
-
-
-
 ## Buy me a Coffee
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 
 
