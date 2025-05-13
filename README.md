@@ -1,8 +1,5 @@
 # Resume Screening RAG Bot
-Xiaoyang Chen 002683914 && Swini Rodrigues 002755764              
-[Hugging face model](https://huggingface.co/cxyzxc/7375-l6v2-dev1)           
-[Streamlit Demo](https://info7374screenbot-bpkdynmhvwvdurqzeywcw8.streamlit.app/)           
-[Youtube Link](https://youtu.be/G8PyPWzC-LU)
+
 ## Introduction
 
 The research aims to present a POC of an LLM chatbot that can assist hiring managers in the resume screening process. The assistant is a cost-efficient, user-friendly, and more effective alternative to the conventional keyword-based screening methods. Powered by state-of-the-art LLMs, it can handle unstructured and complex natural language data in job descriptions/resumes while performing high-level tasks as effectively as a human recruiter.  
@@ -65,7 +62,7 @@ It is recommended to create a virtual environment for the project to manage depe
 
 1. Clone the repository:
     ```bash
-    git clone [https://github.com/SlipRiders/INFO7375-RAG-Assignment.git](https://github.com/SlipRiders/Resume-Screening-Bot.git)
+    git clone (https://github.com/gaurav-thorat/Resume_Screener.git)
     cd Resume-Screening-Bot
     ```
 Once the virtual environment is activated, install the project dependencies using the `requirements.txt` file.
@@ -91,21 +88,7 @@ streamlit run interface.py
 
 
 
-## Contact Us
-
-If you have any questions or would like to collaborate, feel free to reach out to us:
-
-- **Swini Rodrigues**
-  - [GitHub](https://github.com/swini25)  <!-- Update with your actual GitHub URL -->
-  - [LinkedIn](https://www.linkedin.com/in/swinirodrigues/)  <!-- Update with your actual LinkedIn URL -->
-  - Email: rodrigues.sw@northeastern.edu  <!-- Update with your actual email address -->
-
-- **Xiaoyang Chen**
-  - [GitHub](https://github.com/SlipRiders)  <!-- Update with Xiaoyang's actual GitHub URL -->
-  - [LinkedIn](https://www.linkedin.com/in/xiaoyang-chen-a62625268/)  <!-- Update with Xiaoyang's actual LinkedIn URL -->
-  - Email: chen.xiaoyang@northeastern.edu  <!-- Update with Xiaoyang's actual email address -->
- 
-
+## Buy me a Coffee
 
 ## License
 
