@@ -1,4 +1,4 @@
-# Resume Screening RAG Bot
+# Resume Screener
 
 ## Introduction
 
